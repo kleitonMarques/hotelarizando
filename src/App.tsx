@@ -1,16 +1,11 @@
 import React from 'react';
 import './App.css';
 
-import Header from './shared/header/Header'
-import Home from './pages/home/Home'
+import Routes from './routes'
 
 function App() {
   return (
-    <div>
-      <Header />
-      <Home />
-      content to app
-    </div>
+    <Routes />
   );
 }
 

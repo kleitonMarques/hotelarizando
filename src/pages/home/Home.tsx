@@ -1,10 +1,17 @@
 import React from 'react'
 
+import Header from '../../shared/header/Header'
+
 import './home.css'
 
 const Home = () => {
     return (
-        <div>Aqui é home</div>
+        <div className="app-body">
+            <Header />
+            <div className="app-content-base">
+                Aqui é home
+            </div>
+        </div>
     )
 }
 
