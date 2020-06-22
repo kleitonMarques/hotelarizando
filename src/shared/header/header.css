@@ -1,12 +1,59 @@
 .app-top {
     width: 100%;
-    background-color: lightblue;
+    background-color: lightgray;
 }
 
 .app-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     width: 100%;
     max-width: 1200px;
     height: 100px;
     margin: 0px auto 20px auto;
-    background-color: lightgreen;
+    background-color: lightgray;
+}
+
+.space-logo {
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    width: 180;
+
+    background-color: #c7c7c7;
+}
+
+.list-menu {
+    width: calc(100% - 340px);
+}
+
+.list-menu ul {
+    list-style: none;
+}
+
+.list-menu li {
+    display: inline;
+    padding: 10px 20px 10px 20px;
+    margin: 5px;
+}
+
+.list-menu li:hover {
+    border-bottom: 1px solid #c7c7c7;
+}
+
+.list-menu li a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.space-menu-users {
+    
+    width: 160px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+}
+
+.space-menu-users:hover {
+    border-bottom: 1px solid #c7c7c7;
+    margin-top: 1px;
 }
