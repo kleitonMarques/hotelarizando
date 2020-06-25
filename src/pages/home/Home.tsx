@@ -8,9 +8,14 @@ const Home = () => {
     return (
         <div className="app-body">
             <Header />
-            <div className="app-content-base">
-                Aqui é home
+            <div className="app-map">
+                test
             </div>
+            
+            
+            
+            
+            {/* <div className="app-content-base">Aqui é home</div> */}
         </div>
     )
 }
