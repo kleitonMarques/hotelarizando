@@ -1,6 +1,6 @@
 .app-top {
     width: 100%;
-    background-color: lightgray;
+    background-color: #4d2fd4;
 }
 
 .app-menu {
@@ -11,7 +11,7 @@
     max-width: 1200px;
     height: 100px;
     margin: 0px auto 20px auto;
-    background-color: lightgray;
+    background-color: #4d2fd4;
 }
 
 .space-logo {
@@ -19,7 +19,8 @@
     font-size: 20px;
     padding: 10px;
     width: 180;
-    background-color: #c7c7c7;
+    background-color: #563bd1;
+    color: #dedaf7;
 }
 
 .list-menu {
@@ -42,7 +43,7 @@
 
 .list-menu li a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 .space-menu-users {
@@ -52,11 +53,13 @@
     width: 160px;
     padding: 10px 20px 10px 20px;
     text-align: center;
+    color: #ffffff;
 }
 
 .space-menu-users span {
     padding: 10px;
     margin-top: 5px;
+    color: #ffffff;
 }
 
 .space-menu-users:hover {

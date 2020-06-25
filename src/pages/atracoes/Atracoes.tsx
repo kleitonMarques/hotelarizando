@@ -2,17 +2,17 @@ import React from 'react'
 
 import Header from '../../shared/header/Header'
 
-import './products.css'
+import './atracoes.css'
 
-const Products = () => {
+const Atracoes = () => {
     return (
         <div className="app-body">
             <Header />
             <div className="app-content-base">
-                Aqui é produtos
+                Atrações
             </div>
         </div>
     )
 }
 
-export default Products
+export default Atracoes

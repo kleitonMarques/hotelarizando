@@ -11,11 +11,9 @@ const Header = () => {
                 <div className="space-logo">HOTELARIZANDO</div>
                 <div className="list-menu">
                     <ul>
-                        <li><Link to="/">Home</Link></li>
-                        <li><Link to="/products">Produtos</Link></li>
-                        <li><Link to="/products">Produção</Link></li>
-                        <li><Link to="/products">Instalações</Link></li>
-                        <li><Link to="/products">Contato</Link></li>
+                        <li><Link to="/">Hospedagens</Link></li>
+                        <li><Link to="/">Atrações</Link></li>
+                        <li><Link to="/">Pacote</Link></li>
                     </ul>
                 </div>
                 <div className="space-menu-users">
