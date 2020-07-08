@@ -12,8 +12,9 @@ const Header = () => {
                 <div className="list-menu">
                     <ul>
                         <li><Link to="/">Hospedagens</Link></li>
-                        <li><Link to="/">Atrações</Link></li>
-                        <li><Link to="/">Pacote</Link></li>
+                        <li><Link to="/restaurantes">Restaurantes</Link></li>
+                        <li><Link to="/postosDeCombustiveis">Postos de combustível</Link></li>
+                        <li><Link to="/hospitais">Hospitais</Link></li>
                     </ul>
                 </div>
                 <div className="space-menu-users">
