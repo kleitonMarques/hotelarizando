@@ -11,10 +11,3 @@
   height: 100vh;
   background-color: #cececc;
 }
-
-.app-content-base {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0px auto 20px auto;
-  background-color: darkgray;
-}

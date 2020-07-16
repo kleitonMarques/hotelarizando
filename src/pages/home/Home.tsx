@@ -10,7 +10,35 @@ const Home = () => {
         <div className="app-body">
             <Header />
             <AppMap>
-                <div className="app-content-base">Aqui é home</div>
+                <div className="app-side-menu">
+                    <div className="box-side-menu">
+                        <div className="group-box-menu">
+                            
+                            <div className="listContentMenu">
+                                São Paulo
+                                <span>
+                                    São Paulo
+                                </span>
+                            </div>
+
+                            <div className="listContentMenu">
+                                Rio de Janeiro
+                                <span>
+                                    Rio de Janeiro
+                                </span>
+                            </div>
+
+                            <div className="listContentMenu">
+                                Paraná
+                            </div>
+
+                            <div className="listContentMenu">
+                                Bahia
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
             </AppMap>
             
         </div>

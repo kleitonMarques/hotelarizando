@@ -1,0 +1,54 @@
+.app-side-menu {
+    width: 100%;
+    margin: 0px auto 0px auto;
+    position: absolute;
+    z-index: 9999;
+    /* background-color: darkgray;*/
+}
+  
+.box-side-menu {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0px auto 0px auto;
+    /* background: pink; */
+}
+
+.group-box-menu {
+    background-color:  white;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.listContentMenu {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-bottom: 2px;
+    font-size: 15px;
+    color: #666;
+}
+
+.listContentMenu:hover {
+    background-color: #ececec;
+    color: black
+}
+
+.listContentMenu:hover span {
+    display: block;
+    color: #666;
+    animation-name: overSubMenu;
+    animation-duration: 0.2s;
+}
+@keyframes overSubMenu {
+    from {margin-top: 0px;}
+    to {margin-top: 7px;}
+}
+
+
+.listContentMenu span {
+    display: none;
+    border-top: 1px solid #666;;
+    margin-top: 7px;
+    padding-top: 7px;
+    font-size: 12px;
+}
