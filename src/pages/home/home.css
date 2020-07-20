@@ -1,9 +1,10 @@
 .app-side-menu {
     width: 100%;
-    margin: 0px auto 0px auto;
+    height: calc(100vh - 100px);
+    margin: 100px auto 0px auto;
     position: absolute;
     /* z-index: 9999; */
-    background-color: darkgray;
+    /* background-color: darkgray; */
 }
   
 .box-side-menu {
@@ -16,9 +17,15 @@
 .group-box-menu {
     background-color:  white;
     width: 200px;
+    height: calc(100vh - 140px);
     margin-top: 20px;
     position: relative;
     z-index: 999;
+    overflow-y: scroll;
+}
+
+.group-box-menu::-webkit-scrollbar {
+    display: none
 }
 
 .listContentMenu {

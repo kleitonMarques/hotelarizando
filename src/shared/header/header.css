@@ -2,6 +2,8 @@
     width: 100%;
     background-color: #4d2fd4;
     border-bottom: 1px solid #ffffff;
+    position: fixed;
+    z-index: 9999;
 }
 
 .app-menu {
