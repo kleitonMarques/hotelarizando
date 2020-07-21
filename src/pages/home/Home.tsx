@@ -14,157 +14,27 @@ const Home = () => {
                     <div className="box-side-menu">
                         <div className="group-box-menu">
                             
-                                <div className="listContentMenu">
+                            <div className="listContentMenu">
+                                São Paulo
+                                <span>
                                     São Paulo
-                                    <span>
-                                        São Paulo
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Rio de Janeiro
-                                    <span>
-                                        Rio de Janeiro
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Paraná
-                                </div>
-                                <div className="listContentMenu">
-                                    Bahia
-                                </div>
+                                </span>
+                            </div>
 
-                                <div className="listContentMenu">
-                                    São Paulo
-                                    <span>
-                                        São Paulo
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
+                            <div className="listContentMenu">
+                                Rio de Janeiro
+                                <span>
                                     Rio de Janeiro
-                                    <span>
-                                        Rio de Janeiro
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Paraná
-                                </div>
-                                <div className="listContentMenu">
-                                    Bahia
-                                </div>
+                                </span>
+                            </div>
 
-                                <div className="listContentMenu">
-                                    São Paulo
-                                    <span>
-                                        São Paulo
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Rio de Janeiro
-                                    <span>
-                                        Rio de Janeiro
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Paraná
-                                </div>
-                                <div className="listContentMenu">
-                                    Bahia
-                                </div>
+                            <div className="listContentMenu">
+                                Paraná
+                            </div>
 
-                                <div className="listContentMenu">
-                                    São Paulo
-                                    <span>
-                                        São Paulo
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Rio de Janeiro
-                                    <span>
-                                        Rio de Janeiro
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Paraná
-                                </div>
-                                <div className="listContentMenu">
-                                    Bahia
-                                </div>
-
-                                <div className="listContentMenu">
-                                    São Paulo
-                                    <span>
-                                        São Paulo
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Rio de Janeiro
-                                    <span>
-                                        Rio de Janeiro
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Paraná
-                                </div>
-                                <div className="listContentMenu">
-                                    Bahia
-                                </div>
-
-                                <div className="listContentMenu">
-                                    São Paulo
-                                    <span>
-                                        São Paulo
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Rio de Janeiro
-                                    <span>
-                                        Rio de Janeiro
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Paraná
-                                </div>
-                                <div className="listContentMenu">
-                                    Bahia
-                                </div>
-
-                                <div className="listContentMenu">
-                                    São Paulo
-                                    <span>
-                                        São Paulo
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Rio de Janeiro
-                                    <span>
-                                        Rio de Janeiro
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Paraná
-                                </div>
-                                <div className="listContentMenu">
-                                    Bahia
-                                </div>
-
-                                <div className="listContentMenu">
-                                    São Paulo
-                                    <span>
-                                        São Paulo
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Rio de Janeiro
-                                    <span>
-                                        Rio de Janeiro
-                                    </span>
-                                </div>
-                                <div className="listContentMenu">
-                                    Paraná
-                                </div>
-                                <div className="listContentMenu">
-                                    Bahia
-                                </div>                                                                                                                                                                                                                                
+                            <div className="listContentMenu">
+                                Bahia
+                            </div>
 
                         </div>
                     </div>
