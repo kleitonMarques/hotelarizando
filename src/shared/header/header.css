@@ -26,6 +26,13 @@
     color: #dedaf7;
 }
 
+.linkLogo {
+    text-decoration: none;
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+    color: #dedaf7;
+}
+
 .list-menu {
     width: calc(100% - 340px);
 }
