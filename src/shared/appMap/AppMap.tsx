@@ -1,7 +1,7 @@
 import React from 'react'
 import { Map, TileLayer, Marker } from 'react-leaflet'
 
-import './appMap.css'
+import './appMap.scss'
 
 interface MapProps {
     children?: JSX.Element[] | JSX.Element;

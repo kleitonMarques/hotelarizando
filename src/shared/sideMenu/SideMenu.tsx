@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 
-import './sideMenu.css'
+import './sideMenu.scss'
 
 interface IBGEUFResponse {
     nome: string;

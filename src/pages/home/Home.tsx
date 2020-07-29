@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './home.css'
+import './home.scss'
 
 import Header from '../../shared/header/Header'
 import AppMap from '../../shared/appMap/AppMap'

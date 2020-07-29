@@ -2,7 +2,7 @@ import React from 'react'
 import { FiChevronDown } from 'react-icons/fi'
 import { Link } from 'react-router-dom'
 
-import './header.css'
+import './header.scss'
 
 const Header = () => {
     return (
