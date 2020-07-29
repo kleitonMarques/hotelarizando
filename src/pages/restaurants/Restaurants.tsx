@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './restaurants.css'
+import './restaurants.scss'
 
 import Header from '../../shared/header/Header'
 import AppMap from '../../shared/appMap/AppMap'
