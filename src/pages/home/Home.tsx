@@ -13,7 +13,6 @@ const Home = () => {
             <AppMap>
                 <SideMenu />
             </AppMap>
-            
         </div>
     )
 }
